@@ -6,12 +6,12 @@ import App from './App'
 import Element from 'element-ui'
 import router from './router'
 import store from './store'
-import $ from 'jquery'
+
 Vue.use(Element, { size: 'small', zIndex: 3000 })
 Vue.config.productionTip = false
 /* eslint-disable no-new */
 new Vue({
-  el: '#app',
+  el: '#app1',
   router,
   store,
   components: { App },
