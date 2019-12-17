@@ -1,0 +1,14 @@
+第一步
+git clone https://******8888
+第二步骤
+git add * / main.js
+第三步
+git commit -m "提交到本地仓库"
+第四步
+git pull //获取远程仓库的版本
+第五步
+手动看看，哪里没有兼容，进行解决
+第六步
+完成之后，重复第二步和第三部
+第七部
+git push origin master
