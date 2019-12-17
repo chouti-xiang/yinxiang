@@ -12,3 +12,4 @@ git pull //获取远程仓库的版本
 完成之后，重复第二步和第三部
 第七部
 git push origin master
+第八步

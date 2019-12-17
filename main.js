@@ -6,7 +6,6 @@ import App from './App'
 import Element from 'element-ui'
 import router from './router'
 import store from './store'
-区1111
 Vue.use(Element, { size: 'small', zIndex: 3000 })
 Vue.config.productionTip = false
 /* eslint-disable no-new */
